@@ -5,3 +5,5 @@
 🌎 Just type a city name in the search box and press Enter or click the search icon
 
 🔜 Currently, the app is optimized for PC view. Support for tablet and mobile screens will be added in future updates.
+
+link to access : https://phenomenal-kelpie-1cebe4.netlify.app
